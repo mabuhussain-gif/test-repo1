@@ -1,7 +1,8 @@
 class hello
-basha
-ll
-ll
-jj
-jj
+{
+	public static void main
+	{
+		s.o.p("hello")
+	}
+}
 
