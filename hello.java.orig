@@ -1,13 +1,16 @@
+<<<<<<< HEAD
 class hello basha
 {
 	public static void main basha
 	{
 		s.o.p("hello") hussain
+=======
 class hello  basha
 {
 	public static void main ( mabu )
 	{
 		s.o.p("hello" hussain)
+>>>>>>> c4a0daa8737ac746373383bd53d2c0691e4d7566
 	}
 }
 
